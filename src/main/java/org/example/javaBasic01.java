@@ -3,6 +3,7 @@ package org.example;
 // 자료형, if, while, switch
 public class javaBasic01 { // 클래스 이름은 항상 파일 이름과 같다.
     public static void main(String[] args) {
+
 // java는 JVM(Java Virtual Machine을 통해서 실행된다. main 메서드를 찾아 실행하면서 java 프로그램이 시작된다.
 //        System.out.println("Hello, World!");
 
@@ -12,7 +13,8 @@ public class javaBasic01 { // 클래스 이름은 항상 파일 이름과 같다
 //        boolean isStudent = true;
 //        char grade = 'A';
 //        String name = "Choi";
-        
+
+
         // if 문 예제
 //        if (age >= 19) {
 //            System.out.println("성인");
@@ -22,12 +24,14 @@ public class javaBasic01 { // 클래스 이름은 항상 파일 이름과 같다
 //            System.out.println("아이");
 //        }
 
+
         // while 문 예제
 //        int birthYear = 0;
 //        while(birthYear != age) {
 //            ++birthYear;
 //        }
 //        System.out.println(birthYear);
+
 
         // do while 문 예제
 //        int num = 10;
@@ -39,6 +43,7 @@ public class javaBasic01 { // 클래스 이름은 항상 파일 이름과 같다
 //                isNumBigger = false;
 //            }
 //        } while (isNumBigger);
+
 
         // switch 문 예제
 //        switch (grade) {
