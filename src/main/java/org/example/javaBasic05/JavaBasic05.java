@@ -5,7 +5,7 @@ package org.example.javaBasic05;
 public class JavaBasic05 {
     public static void main(String[] args) {
 
-        // 객체지향의 기본 4가지 개념은 1. 캡슐화, 2. 상속, 3. 다형성, 4. 추상화이다.
+        // 객체지향의 기본 4가지 개념은 1. 캡슐화, 2. 상속, 3. 다형성, 4. 추상화 다.
         Person p1 = new Person("Choi");
         // 우리는 p1 객체를 통해 person class 의 여러가지 필드에 접근할 수 있었다.
         // 하지만 필드에 직접적으로 접근한다면 잘못된 접근이나 의도치 않은 변경에 대비하기 쉽지 않다.
